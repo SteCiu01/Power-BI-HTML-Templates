@@ -22,5 +22,5 @@ Below you can find the links to the dedicated pages for each template I created.
 
 | Template | Description | Link |
 | -------- | ----------- | ---- |
-| HTML KPI Cards | Set of custom KPI cards, with dynamic effects, and with embedded small svg visuals. | [Link]() |
-| HTML Waterfall Visual | Custom Waterfall visual for AC vs. SPLY/PY coparison. | [Link]() |
+| HTML KPI Cards | Set of custom KPI cards, with dynamic effects, and with embedded small svg visuals. | [Link](https://github.com/SteCiu01/Power-BI-HTML-Templates/tree/main/HTML-KPI-Cards) |
+| HTML Waterfall Visual | Custom Waterfall visual for AC vs. SPLY/PY coparison. | coming soon |
