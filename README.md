@@ -1,26 +1,67 @@
 # Power BI HTML Visual Templates
 
-Collection of Power BI HTML templates for custom visuals, using HTML Content visual.
+Reusable HTML templates for custom visuals in Power BI using the HTML Content visual.
 
-## Intro
+These templates combine DAX logic with HTML/CSS to create highly customizable visuals that can be easily copied across reports with minimal setup.
 
-By leveraging the HTML Content visual, it is possible to create reusable, HTML templates built with a mix of DAX and HTML/CSS. These templates can be easily reused across different reports with only a few simple setup steps, and small amendments within each code.
+**What's included:** Each template page contains the .pbix file with ready-to-use templates and step-by-step implementation instructions.
 
-Before deep diving into these templates, let's get the proper visual for using them.
+---
 
-Step 1: in Power BI Desktop, click on "Get more visuals".
+## Getting Started
+
+### Installing the HTML Content Visual
+
+Before using these templates, you need to install the HTML Content custom visual:
+
+**Step 1: Access Custom Visuals**
+
+In Power BI Desktop, click on **"Get more visuals"**
 
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/00fb178d-30d4-4456-b0b5-24495bf8e91c" />
 
-Step 2: search for html visuals and pick the HTML Content by Daniel Marsh-Patrick. This visual supports the effects in the teplates I provide.
+**Step 2: Install HTML Content Visual**
+
+Search for "HTML" and select **HTML Content** by Daniel Marsh-Patrick
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/750bc324-d68b-4347-9ebb-157664a50642" />
 
-## Templates
+> **Note:** This specific visual supports all effects and features used in the templates provided in this repository.
 
-Below you can find the links to the dedicated pages for each template I created. On each page, you’ll find the .pbix file containing the templates ready to be cused in your report, along with detailed steps and instructions on how to use them. 
+---
 
-| Template | Description | Link |
-| -------- | ----------- | ---- |
-| HTML KPI Cards | Set of custom KPI cards, with dynamic effects, and with embedded small svg visuals. | [Link](https://github.com/SteCiu01/Power-BI-HTML-Templates/tree/main/HTML-KPI-Cards) |
-| HTML Waterfall Visual | Custom Waterfall visual for AC vs. SPLY/PY coparison. | coming soon |
+## Template Library
+
+| Template | Description | Status | Link |
+| -------- | ----------- | ------ | ---- |
+| **HTML KPI Cards** | Custom KPI card set with dynamic effects and embedded SVG visuals for enhanced data presentation | Available | [Link](https://github.com/SteCiu01/Power-BI-HTML-Templates/tree/main/HTML-KPI-Cards) |
+| **HTML Waterfall Visual** | Custom waterfall chart for AC vs. SPLY/PY variance comparison analysis | Coming Soon | — |
+
+---
+
+## Contributing
+
+Found a bug? Have an enhancement? Contributions are welcome!
+
+1. Fork this repository
+2. Create a feature branch (`git checkout -b feature/improvement`)
+3. Commit your changes with clear descriptions
+4. Submit a pull request with detailed explanation
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](https://github.com/SteCiu01/Power-BI-HTML-Templates/blob/main/LICENSE) file for details.
+
+---
+
+## About This Repository
+
+These resources have been developed through real-world implementations across various use cases. Each template represents a solved problem that was complex enough to warrant documentation and reuse.
+
+The focus is on **practical, production-ready solutions** rather than theoretical examples — everything here has been used to solve actual business requirements in Power BI / Fabric environment.
+
+---
+
+**Repository Maintained by:** [Stefano Ciurlia](https://github.com/SteCiu01)
