@@ -30,7 +30,7 @@ This visual is linked to the standardized measures for measures selector [Actual
 
 [📥 Download Here](https://github.com/SteCiu01/Power-BI-HTML-Templates/raw/refs/heads/main/HTML-KPI-Cards/HTML%20KPI%20Cards%20Templates.pbix)
 
-**⚙️ Step 2: Create the measures [Actual] and [SPLY] that needs to be amended (OPTIONAL, ONLY IF YOU IMPLEMENT THE ONE-METRIC KPI CARDS)**
+**⚙️ Step 2: Create the measures [Actual] and [SPLY] that need to be amended (OPTIONAL, ONLY IF YOU IMPLEMENT THE ONE-METRIC KPI CARDS)**
 
 **⚠ IMPORTANT**
 
