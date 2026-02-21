@@ -6,7 +6,7 @@ Interactive IBCS-style waterfall chart for Power BI built entirely in DAX as an 
 
 
 
-*Disclaimer: during the creation of these cards I relied heavily on GitHub Copilot used in VS Code, to manupulate the .pbip files and do some "heavy lifting" such as: repetitive code continuation after setting the standard, deep code commenting, bulk operations.* 
+*Disclaimer: during the creation of this visual I relied heavily on GitHub Copilot used in VS Code, to manupulate the .pbip files and do some "heavy lifting" such as: repetitive code continuation after setting the standard, deep code commenting, bulk operations.* 
 
 ## How to use it
 
@@ -14,7 +14,7 @@ Interactive IBCS-style waterfall chart for Power BI built entirely in DAX as an 
 
 [📥 Download Here](https://github.com/SteCiu01/Power-BI-HTML-Templates/raw/refs/heads/main/HTML-Waterfall-Visual/HTML%20Waterfall%20Visual%20Template.pbix)
 
-**⚙️ Step 2: Create the measures [Actual] and [SPLY] that needs to be amended (OPTIONAL, ONLY IF YOU IMPLEMENT THE ONE-METRIC KPI CARDS)**
+**⚙️ Step 2: Create the measures [Actual] and [SPLY] that need to be amended**
 
 **⚠ IMPORTANT**
 
