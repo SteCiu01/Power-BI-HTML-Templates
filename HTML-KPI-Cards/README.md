@@ -138,7 +138,7 @@ Guidelines
 A this point you just need to: 
 - Drop the field parameter's column [Time Frame] in the HTML Visual -> Values
 - Create a button SLicer with the as Value the parameter's column [Time Frame]
-- (OPTIONAL, ONLY IF YOU IMPLEMENT THE ONE-METRIC KPI CARDS) Create a slicer to swithch between measures using the Measure-Selecto column [Measure]
+- (OPTIONAL, ONLY IF YOU IMPLEMENT THE ONE-METRIC KPI CARDS) Create a slicer to swithch between measures using the Measure-Selector column [Measure]
 
 ## Final Considerations and limitations
 
