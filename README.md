@@ -35,7 +35,7 @@ Search for "HTML" and select **HTML Content** by Daniel Marsh-Patrick
 | Template | Description | Status | Link |
 | -------- | ----------- | ------ | ---- |
 | **HTML KPI Cards** | Custom KPI card set with dynamic effects and embedded SVG visuals for enhanced data presentation | Available | [Link](https://github.com/SteCiu01/Power-BI-HTML-Templates/tree/main/HTML-KPI-Cards) |
-| **HTML Waterfall Visual** | Custom waterfall chart for AC vs. SPLY/PY variance comparison analysis | Coming Soon | — |
+| **HTML Waterfall Visual** | Custom waterfall chart for AC vs. SPLY/PY variance comparison analysis | Coming Soon | [Link](https://github.com/SteCiu01/Power-BI-HTML-Templates/tree/main/HTML-Waterfall-Visual) |
 
 ---
 
