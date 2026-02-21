@@ -11,3 +11,5 @@ Interactive IBCS-style waterfall chart for Power BI built entirely in DAX as an 
 ## How to use it
 
 **⚙️ Step 1: download the template in pbix**
+
+[📥 Download Here](https://github.com/SteCiu01/Power-BI-HTML-Templates/raw/refs/heads/main/HTML-Waterfall-Visual/HTML%20Waterfall%20Visual%20Template.pbix)
