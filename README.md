@@ -1,5 +1,7 @@
 # Power BI HTML Visual Templates
 
+[![Latest Release](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/SteCiu01/Power-BI-HTML-Templates/releases)
+
 Reusable HTML templates for custom visuals in Power BI using the HTML Content visual.
 
 These templates combine DAX logic with HTML/CSS to create highly customizable visuals that can be easily copied across reports with minimal setup.
