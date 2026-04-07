@@ -2,7 +2,7 @@
 
 Collection of DAX-HTML-CSS custom KPI cards. 
 
-*Disclaimer: during the creation of these cards I relied heavily on GitHub Copilot used in VS Code, to manupulate the .pbip files and do some "heavy lifting" such as: repetitive code continuation after setting the standard, deep code commenting, bulk operations.* 
+*Disclaimer: during the creation of these cards I relied heavily on GitHub Copilot used in VS Code, to manipulate the .pbip files and do some "heavy lifting" such as: repetitive code continuation after setting the standard, deep code commenting, bulk operations.* 
 
 ## What is currently available?
 
@@ -34,7 +34,7 @@ This visual is linked to the standardized measures for measures selector [Actual
 
 **⚠ IMPORTANT**
 
-Before running these DAX Query View code below, make sure the 'MeasuresTable' in the code has the same name of your table where you want to save the measures. 
+Before running these DAX Query View code below, make sure the 'MeasuresTable' in the code has the same name as your table where you want to save the measures. 
 
 ‼️ This is crucial to make everything work smoothly: if your measures table is called 'Tables for Measures', for example, follow these steps:
 
@@ -73,15 +73,15 @@ In each measure there are 2 sections to be amended:
 
 **Formatting Section**
 
-This section allows to customise the visual appearence, choosing font size, dimension, visual size, etc. There are in-measures comments to guide you in this process, to know exactly what to change, if needed.
+This section allows to customise the visual appearance, choosing font size, dimension, visual size, etc. There are in-measures comments to guide you in this process, to know exactly what to change, if needed.
 
 **Data Section**
 
 This section allows to bring in your data into the visual. You can do it in 2 ways:
-- Paste the measure in your model, then oing through the code and manually change the reference to your tables/measures.
+- Paste the measure in your model, then going through the code and manually change the reference to your tables/measures.
 - Change the name of the tables/measures in the .pbix template you downloaded before copying and pasting the html measures in your data model.
 
-**⚙️ Step 3: Create a field parameter, to switch between monthly and quarterly views**
+**⚙️ Step 4: Create a field parameter, to switch between monthly and quarterly views**
 
 There should be one field parameter for each visual. See below example for the One Metrics KPI Card with Tabular Details:
 
@@ -111,7 +111,7 @@ Then the model should be as follows:
 <img width="40%" alt="image" src="https://github.com/user-attachments/assets/8cb2b3bd-e98a-4360-91fc-6705910e6b17" />
 
 
-**⚙️ Step 4: Create the measures selector (parameter) table (OPTIONAL, ONLY IF YOU IMPLEMENT THE ONE-METRIC KPI CARDS)**
+**⚙️ Step 5: Create the measures selector (parameter) table (OPTIONAL, ONLY IF YOU IMPLEMENT THE ONE-METRIC KPI CARDS)**
 
 This is a necessary step for those cards that display one measure only and a switch between measures is necessary
 
@@ -133,12 +133,12 @@ Guidelines
 - For example, if your actual measure is called [tot_sales_usd], expose it as "Total Sales ($)"
 - Create as many rows as the measures you need to use in this visual
 
-**⚙️ Step 5: Ready to go!**
+**⚙️ Step 6: Ready to go!**
 
-A this point you just need to: 
+At this point you just need to: 
 - Drop the field parameter's column [Time Frame] in the HTML Visual -> Values
-- Create a button SLicer with the as Value the parameter's column [Time Frame]
-- (OPTIONAL, ONLY IF YOU IMPLEMENT THE ONE-METRIC KPI CARDS) Create a slicer to swithch between measures using the Measure-Selector column [Measure]
+- Create a button slicer with the as Value the parameter's column [Time Frame]
+- (OPTIONAL, ONLY IF YOU IMPLEMENT THE ONE-METRIC KPI CARDS) Create a slicer to switch between measures using the Measure-Selector column [Measure]
 
 ## Final Considerations and limitations
 
